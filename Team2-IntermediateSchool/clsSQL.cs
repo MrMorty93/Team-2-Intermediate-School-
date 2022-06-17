@@ -82,7 +82,7 @@ namespace Team2_IntermediateSchool
                     return false;
                 }
 
-                strPosition = _dsLogin.Rows[0]["PositionTitle"].ToString();
+                strPosition = _dsLogin.Rows[0]["Role"].ToString();
 
                 if (bolLogin)
                 {

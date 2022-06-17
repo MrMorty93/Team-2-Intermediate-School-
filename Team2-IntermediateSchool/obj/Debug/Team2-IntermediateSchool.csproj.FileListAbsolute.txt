@@ -1,0 +1,11 @@
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\bin\Debug\Team2-IntermediateSchool.exe.config
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\bin\Debug\Team2-IntermediateSchool.exe
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\bin\Debug\Team2-IntermediateSchool.pdb
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2-IntermediateSchool.csproj.AssemblyReference.cache
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2-IntermediateSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2_IntermediateSchool.frmMain.resources
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2_IntermediateSchool.Properties.Resources.resources
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2-IntermediateSchool.csproj.GenerateResource.cache
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2-IntermediateSchool.csproj.CoreCompileInputs.cache
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2-IntermediateSchool.exe
+C:\Users\morty\Desktop\Team-2-Intermediate-School-\Team2-IntermediateSchool\obj\Debug\Team2-IntermediateSchool.pdb
