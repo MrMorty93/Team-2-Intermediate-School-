@@ -16,17 +16,17 @@ namespace Team2_IntermediateSchool
             if(clsSQL.strPosition == "Teacher")
             {
                 frmTeacher teacher = new frmTeacher();
-                teacher.Show();
+                teacher.ShowDialog();
             }
             if(clsSQL.strPosition == "Academic Officer")
             {
                 frmOfficer officer = new frmOfficer();
-                officer.Show();
+                officer.ShowDialog();
             }
             if(clsSQL.strPosition == "Administrator")
             {
                 frmAdmin admin = new frmAdmin();
-                admin.Show();
+                admin.ShowDialog();
             }
         }
     }

@@ -16,5 +16,25 @@ namespace Team2_IntermediateSchool
         {
             InitializeComponent();
         }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnStudents_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTeachers_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnOfficers_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
