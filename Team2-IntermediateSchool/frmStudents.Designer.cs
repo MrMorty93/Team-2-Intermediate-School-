@@ -309,7 +309,6 @@
             this.tbxG1.Name = "tbxG1";
             this.tbxG1.Size = new System.Drawing.Size(216, 29);
             this.tbxG1.TabIndex = 29;
-            this.tbxG1.Text = "(If Under 18)";
             // 
             // tbxCell1
             // 
@@ -317,7 +316,6 @@
             this.tbxCell1.Name = "tbxCell1";
             this.tbxCell1.Size = new System.Drawing.Size(216, 29);
             this.tbxCell1.TabIndex = 30;
-            this.tbxCell1.Text = "(If Under 18)";
             // 
             // tbxWorkP1
             // 
@@ -325,7 +323,6 @@
             this.tbxWorkP1.Name = "tbxWorkP1";
             this.tbxWorkP1.Size = new System.Drawing.Size(216, 29);
             this.tbxWorkP1.TabIndex = 31;
-            this.tbxWorkP1.Text = "(If Under 18)";
             // 
             // tbxWork1
             // 
@@ -333,7 +330,6 @@
             this.tbxWork1.Name = "tbxWork1";
             this.tbxWork1.Size = new System.Drawing.Size(216, 29);
             this.tbxWork1.TabIndex = 32;
-            this.tbxWork1.Text = "(If Under 18)";
             // 
             // tbxG2
             // 

@@ -100,10 +100,60 @@ namespace Team2_IntermediateSchool
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
+        }
 
-
-
-
+        public static void WriteToStudent(string strFirst, string strMiddle, string strLast, string strDate, string strMailing,
+            string strStreet, string strCity, string strState, string strZip, string strPhone, string strG1, string strCell1,
+            string strWorkP1, string strWork1, string strG2, string strCell2, string strWorkP2, string strWork2, string strEC)
+        {
+            if (string.IsNullOrWhiteSpace(strCell1))
+            {
+                strCell1 = "NULL";
+            }
+            else
+            {
+                strCell1 = "'" + strCell1 + "'";
+            }
+            if (string.IsNullOrWhiteSpace(strCell2) || strCell2 == "(Optional)")
+            {
+                strCell2 = "NULL";
+            }
+            else
+            {
+                strCell2 = "'" + strCell2 + "'";
+            }
+            if (string.IsNullOrWhiteSpace(strWorkP1))
+            {
+                strWorkP1 = "NULL";
+            }
+            else
+            {
+                strWorkP1 = "'" + strWorkP1 + "'";
+            }
+            if (string.IsNullOrWhiteSpace(strWorkP2) || strWorkP2 == "(Optional)")
+            {
+                strWorkP2 = "NULL";
+            }
+            else
+            {
+                strWorkP2 = "'" + strWorkP2 + "'";
+            }
+            if (string.IsNullOrWhiteSpace(strWork1))
+            {
+                strWork1 = "NULL";
+            }
+            else
+            {
+                strWork1 = "'" + strWork1 + "'";
+            }
+            if (string.IsNullOrWhiteSpace(strWork2) || strWork2 == "(Optional)")
+            {
+                strWork2 = "NULL";
+            }
+            else
+            {
+                strWork2 = "'" + strWork2 + "'";
+            }
         }
     }
 }
