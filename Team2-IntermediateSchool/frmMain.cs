@@ -26,5 +26,10 @@ namespace Team2_IntermediateSchool
         {
             clsSQL.CloseDatabase();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            clsLogin.Login(tbxUsername.Text, tbxPassword.Text);
+        }
     }
 }
