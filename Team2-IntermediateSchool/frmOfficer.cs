@@ -24,7 +24,8 @@ namespace Team2_IntermediateSchool
 
         private void btnStudents_Click(object sender, EventArgs e)
         {
-
+            frmStudents students = new frmStudents();
+            students.ShowDialog();
         }
 
         private void btnTeachers_Click(object sender, EventArgs e)
